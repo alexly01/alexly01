@@ -3,7 +3,7 @@
 🎓 Studied Computer Science at California State University Long Beach<br><br>
 
 
-## 🔗 Connect
+## Connect 🔗
 
 Feel free to connect or contact me:<br><br>
 Linkedin: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alex-ly-4a3635209/) <br>
